@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on mastodon instances at https://pureheart.page
+- 🔭 I’m currently working on mastodon instance at https://pureheart.page
 
 
 
