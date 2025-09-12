@@ -1,10 +1,8 @@
 ## Hi there 👋
+- 🔭 I’m currently working on mastodon instances at https://pureheart.page
 
 
 
-<a rel="me" href="https://pureheart.page/@dominic">Mastodon</a>
-
-<meta name="fediverse:creator" content="@dominic@pureheart.page">
 <!--
 **dominic-m-in-japan/dominic-m-in-japan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
