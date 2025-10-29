@@ -1,7 +1,4 @@
-## Hi there 👋
-- 🔭 I’m currently working on mastodon instance at https://pureheart.page
-- Currently, up and running.
-- Spammed bot accounts will not be approved. 
+## Hi there 
 
 
 
