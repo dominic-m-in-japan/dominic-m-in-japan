@@ -1,7 +1,8 @@
 ## Hi there 
 
 
-
+I'm working on a python script to find uncommented posts on a subreddit
+https://github.com/dominic-m-in-japan/dominic-m-in-japan/blob/main/find-zero-comments-github-version.py
 <!--
 **dominic-m-in-japan/dominic-m-in-japan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
